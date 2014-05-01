@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+/Users/almazyitref/Desktop/untitled folder 2/.metadata/.plugins/org.eclipse.jdt.core
+1270315800.index
+4029608588.index
+1622245854.index
+2964975238.index
+3143843636.index
